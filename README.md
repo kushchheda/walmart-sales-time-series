@@ -71,6 +71,6 @@ We tested multiple forecasting philosophies to find the most resilient engine:
 
 ## 📂 Project Structure
 ```text
-├── Walmart.csv                 # Raw dataset
+├── Walmart.csv                                      # Raw dataset
 ├── Walmart_Time_Series_Analysis_Forecasting.ipynb   # Full analysis notebook
-└── README.md                   # Project documentation
+└── README.md                                        # Project documentation
